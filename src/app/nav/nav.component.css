@@ -1,0 +1,27 @@
+*{
+    display: flex;
+    background-color: maroon;
+}
+.site-name{
+    padding: 5px 30px;
+    color: pink;
+}
+.site-menu{
+    /* padding: 20px 11%; */
+    /* margin-left: 100px; */
+    /* border: 5px solid cornsilk; */
+    margin-right: 100px;
+    border-radius: 2rem;
+    font-weight: bold;
+    
+
+}
+.site-menu a:hover {
+    text-decoration: overline;
+    color: white;
+  }
+a{
+    text-decoration: none;
+    color: plum;
+    margin: 0px 10px;
+}
